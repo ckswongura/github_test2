@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include=".github\workflows\" />
+    <None Include=".github\workflows\dotnetcore.yml" />
   </ItemGroup>
 
 </Project>
